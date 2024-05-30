@@ -1,0 +1,54 @@
+name,birth_year_certain,birth_year,death_year_certain,death_year,reign_start_year,reign_end_year
+Gorm_den_Gamle,NA,NA,no,958,936,958
+Harald_1_Blåtand,NA,NA,no,987,958,987
+Svend_1_Tveskæg,NA,NA,yes,1014,987,1014
+Harald_2,NA,NA,no,1018,1014,1018
+Knud_1_den_Store,no,995,yes,1035,1018,1035
+Hardeknud,no,1020,yes,1042,1035,1042
+Magnus_den_Gode,yes,1024,yes,1047,1042,1047
+Svend_2_Estridsen,NA,NA,yes,1076,1047,1074
+Harald_3_Hen,NA,NA,yes,1080,1074,1080
+Knud_2_den_Hellige,NA,NA,yes,1086,1080,1086
+Oluf_1_Hunger,NA,NA,yes,1095,1086,1095
+Erik_1_Ejegod ,no,1056,yes,1103,1095,1103
+Niels,NA,NA,yes,1134,1104,1134
+Erik _2_Emune,NA,NA,yes,1137,1134,1137
+Erik_3_Lam,NA,NA,yes,1146,1137,1146
+Valdemar_1_den_Store ,yes,1131,yes,1182,1157,1182
+Knud_4,yes,1163,yes,1202,1182,1202
+Valdemar_2_Sejr,yes,1170,yes,1241,1202,1241
+Erik_4_Plovpenning,yes,1216,yes,1250,1241,1250
+Abel,no,1218,yes,1252,1250,1252
+Christoffer_1,no,1219,yes,1259,1252,1259
+Erik_5_Klipping,yes,1249,yes,1286,1259,1286
+Erik_6_Menved,yes,1274,yes,1319,1286,1319
+Christoffer_2,yes,1276,yes,1332,1320,1326
+Valdemar_3,no,1315,yes,1364,1326,1329
+Christoffer_2,yes,1276,yes,1332,1329,1332
+Valdemar_4_Atterdag,no,1320,yes,1375,1340,1375
+Oluf_2,yes,1370,yes,1387,1375,1387
+Margrete_1,yes,1353,yes,1412,1387,1396
+Erik_7_af_Pommern ,no,1382,yes,1459,1396,1439
+Christoffer_3_af_Bayern,yes,1416,yes,1448,1440,1448
+Christian_1,yes,1426,yes,1481,1448,1481
+Hans,yes,1455,yes,1513,1482,1513
+Christian_2,yes,1481,yes,1559,1513,1523
+Frederik_1,yes,1471,yes,1533,1523,1533
+Christian_3,yes,1503,yes,1559,1536,1559
+Frederik_2,yes,1534,yes,1588,1559,1588
+Christian_4,yes,1577,yes,1648,1588,1648
+Frederik_3,yes,1609,yes,1670,1648,1670
+Christian_5,yes,1646,yes,1699,1670,1699
+Frederik_4,yes,1671,yes,1730,1699,1730
+Christian_6,yes,1699,yes,1746,1730,1746
+Frederik_5,yes,1723,yes,1766,1746,1766
+Christian_7,yes,1749,yes,1808,1766,1808
+Frederik_6,yes,1768,yes,1839,1808,1839
+Christian_8,yes,1786,yes,1848,1839,1848
+Frederik_7,yes,1808,yes,1863,1848,1863
+Christian_9,yes,1818,yes,1906,1863,1906
+Frederik_8,yes,1843,yes,1912,1906,1912
+Christian_10,yes,1870,yes,1947,1912,1947
+Frederik_9,yes,1899,yes,1972,1947,1972
+Margrethe_2,yes,1940,NA,NA,1972,2024
+Frederik_10,yes,1968,NA,NA,2024,NA
